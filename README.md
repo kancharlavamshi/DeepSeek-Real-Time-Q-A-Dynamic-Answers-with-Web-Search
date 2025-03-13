@@ -14,5 +14,6 @@ This script combines DuckDuckGo search with DeepSeek’s AI to answer user queri
 
 
 ## Run
+```bash
 python deepseek_realtime_qa.py
 
