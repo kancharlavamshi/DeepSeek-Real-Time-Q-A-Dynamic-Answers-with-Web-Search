@@ -14,6 +14,14 @@ This script combines DuckDuckGo search with DeepSeek’s AI to answer user queri
 
 
 ## Run
-```bash
-python deepseek_realtime_qa.py
+   ```bash
+   python deepseek_realtime_qa.py
 
+
+
+
+
+## Disclaimer
+Uses the openai library (MIT License), duckduckgo_search (MIT License), and OpenRouter’s free tier.
+Please adhere to the Terms of Service of all services used.
+For educational use only—do not deploy in production without permission from service providers.
