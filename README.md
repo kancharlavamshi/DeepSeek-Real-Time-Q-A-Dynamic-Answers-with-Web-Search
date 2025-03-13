@@ -31,9 +31,14 @@ python deepseek_realtime_qa.py
 
 
 ## Disclaimer
-Uses the openai library (MIT License), duckduckgo_search (MIT License), and OpenRouter’s free tier.
-Please adhere to the Terms of Service of all services used.
-For educational use only—do not deploy in production without permission from service providers.
 
+This project, **DeepSeek Real-Time Q&A**, is developed solely for **educational purposes** to demonstrate the integration of real-time web search (via DuckDuckGo) with AI-powered responses (via DeepSeek and OpenRouter). It is not intended for commercial use, production deployment, or any purpose beyond personal learning and experimentation.
+
+- **Usage**: Users are responsible for obtaining their own OpenRouter API key and adhering to the [OpenRouter Terms of Service](https://openrouter.ai/terms). Excessive or unauthorized use of the API may violate these terms.
+- **Third-Party Services**: This project relies on the `duckduckgo_search` library (MIT License) and the `openai` library (MIT License), as well as DuckDuckGo’s search functionality. Users must comply with DuckDuckGo’s policies and any applicable rate limits.
+- **No Warranty**: The code is provided "as is" without any warranties, express or implied. The author is not liable for any damages, errors, or issues arising from its use.
+- **Educational Intent**: This is a learning tool, not a finished product. It may contain limitations or bugs typical of a demonstration project.
+
+By using this project, you agree to respect the terms of all referenced services and use it responsibly within the scope of educational exploration.
 
 
