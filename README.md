@@ -11,3 +11,8 @@ This script combines DuckDuckGo search with DeepSeek’s AI to answer user queri
 3. Set your OpenRouter API key as an environment variable:
    ```bash
    export OPENROUTER_API_KEY="your-key-here"
+
+
+## Run
+python deepseek_realtime_qa.py
+
