@@ -6,7 +6,7 @@
 This script combines DuckDuckGo search with DeepSeek’s AI to answer user queries with up-to-date info. It’s a learning tool for exploring API usage, search integration, and natural language processing.
 
 ## Setup
-1. Clone the repo: `git clone https://github.com/kancharlavamshi/DeepSeek-Real-Time-Q-A-Dynamic-Answers-with-Web-Search.git`
+1. Clone the repo: `https://github.com/kancharlavamshi/DeepSeek-Real-Time-Q-A-Dynamic-Answers-with-Web-Search.git`
 2. Install dependencies: `pip install openai duckduckgo-search`
 3. Set your OpenRouter API key as an environment variable:
    ```bash
